@@ -1,3 +1,6 @@
+com\fidelidad\service\PersistenciaService.class
+com\fidelidad\model\Compra.class
 com\fidelidad\model\Cliente.class
 com\fidelidad\App.class
+com\fidelidad\service\CompraService.class
 com\fidelidad\service\ClienteService.class

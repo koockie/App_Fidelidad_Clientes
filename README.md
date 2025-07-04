@@ -1,2 +1,12 @@
 # App_Fidelidad_Clientes
-gestione un programa de fidelidad para una cadena de tiendas de conveniencia. El sistema debe:  Administrar clientes y su acumulación de puntos. Registrar compras y otorgar puntos según reglas de negocio. Gestionar niveles (Bronce, Plata, Oro, Platino). Todo se opera por consola mediante un menú de texto.
+## COMPILACIÓN:
+### Descargar repositorio:
+* Clonar reposotorio en espacio local
+### Ingresar a carpeta Backend
+* cd backend
+### Construir proyecto con Maven (necesita tener instalado: Java JDK 8 o mas, Apach Maven):
+* mvn clean package    
+### Ejecutar app desde /backend con:
+* java -jar target/backend-1.0-SNAPSHOT.jar
+ 
+

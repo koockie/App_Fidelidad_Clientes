@@ -1,1 +1,3 @@
+com\fidelidad\service\CompraServiceTest.class
 com\fidelidad\service\ClienteServiceTest.class
+com\fidelidad\service\PersistenciaServiceTest.class

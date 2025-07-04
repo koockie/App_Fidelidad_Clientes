@@ -48,4 +48,17 @@ public class Cliente {
     public void setCorreo(String correo) {
         this.correo = correo;
     }
+
+    //manejo de puntos y compras
+    public void setPuntos(int puntos) {
+    this.puntos = puntos;
+    }
+
+    public void setStreakDias(int streakDias) {
+        this.streakDias = streakDias;
+    }
+
+    public void setNivel(String nivel) {
+        this.nivel = nivel;
+    }
 }
