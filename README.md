@@ -35,3 +35,6 @@ Diagrama App_Fidelidad_clientes:
 
 ## Licencia
 Este proyecto está licenciado bajo los términos de la licencia MIT.
+
+## Tipo de pruebas realizadas:
+Se utilizan Pruebas unitarias mediante la metodología TDD, con el objetivo de validar el correcto funcionamiento del código y documentar sus pruebas durante la creación del mismo.
